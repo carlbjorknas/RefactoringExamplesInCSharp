@@ -42,7 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ExtractMethod.cs" />
+    <Compile Include="ExtractMethod\AfterWithLinq.cs" />
+    <Compile Include="ExtractMethod\After.cs" />
+    <Compile Include="ExtractMethod\Before.cs" />
+    <Compile Include="ExtractMethod\Order.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
