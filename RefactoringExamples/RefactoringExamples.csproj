@@ -46,6 +46,12 @@
     <Compile Include="ExtractMethod\After.cs" />
     <Compile Include="ExtractMethod\Before.cs" />
     <Compile Include="ExtractMethod\Order.cs" />
+    <Compile Include="IntroduceExplainingVariable\Example1After.cs" />
+    <Compile Include="IntroduceExplainingVariable\Example1Before.cs" />
+    <Compile Include="IntroduceExplainingVariable\Example2AfterWithExtractMethod2.cs" />
+    <Compile Include="IntroduceExplainingVariable\Example2AfterWithExtractMethod.cs" />
+    <Compile Include="IntroduceExplainingVariable\Example2After.cs" />
+    <Compile Include="IntroduceExplainingVariable\Example2Before.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
