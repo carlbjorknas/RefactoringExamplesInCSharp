@@ -57,6 +57,7 @@
     <Compile Include="ReplaceMagicNumberWithSymbolicConstant\Comment.cs" />
     <Compile Include="ReplaceMagicNumberWithSymbolicConstant\Example1After.cs" />
     <Compile Include="ReplaceMagicNumberWithSymbolicConstant\Example1Before.cs" />
+    <Compile Include="ReplaceMagicNumberWithSymbolicConstant\Example2After.cs" />
     <Compile Include="ReplaceMagicNumberWithSymbolicConstant\Example2Before.cs" />
   </ItemGroup>
   <ItemGroup>
